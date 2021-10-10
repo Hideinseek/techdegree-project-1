@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Coding Projects Treehouse"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio_update_v1"
+	}
+}
